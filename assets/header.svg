@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Sıraç. Backend, scraping and data pipelines.">
+  <rect width="1200" height="240" rx="8" fill="#171b1c"/>
+  <path d="M48 44V196" stroke="#ef895e" stroke-width="4"/>
+  <text x="78" y="151" fill="#f1eddf" font-family="Georgia, 'Times New Roman', serif" font-size="118" letter-spacing="-5">sıraç.</text>
+  <g fill="#b9c0b9" font-family="'Courier New', monospace" font-size="18">
+    <text x="732" y="89">BACKEND</text>
+    <text x="732" y="121">SCRAPING</text>
+    <text x="732" y="153">DATA PIPELINES</text>
+  </g>
+  <path d="M732 177H1138" stroke="#3c4544"/>
+  <circle cx="1134" cy="57" r="5" fill="#ef895e"/>
+</svg>
