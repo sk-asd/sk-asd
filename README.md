@@ -15,6 +15,7 @@ A TV and film tracking project with a web app and an Android app. Another side o
 
 | Project | What's inside |
 | :--- | :--- |
+| [bershka-stock-tracker](https://github.com/sk-asd/bershka-stock-tracker) | Stock and price checks by colour and size, saved observations and optional Telegram alerts. |
 | [har-endpoint-finder](https://github.com/sk-asd/har-endpoint-finder) | Read a HAR file and rank the requests that carry useful data. Python, no dependencies. |
 | [scraper-reliability-kit](https://github.com/sk-asd/scraper-reliability-kit) | A deliberately unreliable local server, plus a worker with pacing, retries and source cooldowns. |
 | [odds-data-pipeline-demo](https://github.com/sk-asd/odds-data-pipeline-demo) | Different input formats, one market schema, snapshots and a price change log. |
@@ -28,6 +29,8 @@ Also: [request signatures](https://github.com/sk-asd/signed-endpoint-scraper) / 
 SourcePawn was where I started writing code for other people to use. The old CS:GO projects are public now: [Corona](https://github.com/sk-asd/Corona-Oyunu), [Surf LR](https://github.com/sk-asd/Surf-LR), [HS Savaşı](https://github.com/sk-asd/HS-Savasi) and more in the repositories tab.
 
 </details>
+
+[<img src="./assets/activity.svg" alt="GitHub activity, including anonymized private contributions. Updated daily." width="100%" />](https://github.com/sk-asd)
 
 ---
 
