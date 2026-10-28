@@ -53,7 +53,7 @@ def render(calendar: Calendar) -> str:
         '<text x="28" y="36" font-size="15" fill="#b9c0b9" letter-spacing="2">ACTIVITY</text>',
         f'<text x="1006" y="36" text-anchor="end" font-size="17" fill="#f1eddf">{total:,} contributions / past year</text>',
     ]
-    previous_month = None
+    previous_month = start.month if start.day > 7 else None
     for day, level in sorted(calendar.days.items()):
         delta = (day - start).days
         week, weekday = delta // 7, delta % 7
